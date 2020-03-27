@@ -1,0 +1,6 @@
+interface GigabitEthernet 1/1
+ Description **This Port Has Been NAC Enabled**
+interface GigabitEthernet 1/2
+ Description **This Port Has Been NAC Enabled**
+interface GigabitEthernet 1/4
+ Description **This Port Has Been NAC Enabled**
