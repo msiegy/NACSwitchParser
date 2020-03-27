@@ -1,5 +1,5 @@
 # NACSwitchParser
-Switch configuration parser for identifying where to apply appropriate NAC configs
+Switch configuration parser that leverages the python library ciscoconfparse for identifying where to apply appropriate NAC configs
 
 
 iosparser.py 
